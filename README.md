@@ -2,7 +2,7 @@
 
 **Este es un repositorio creado para una práctica de DAW.**
 
-![Carlos] (https://github.com/rotcivsh99-wq/actividad-daw/blob/main/images.jpeg?raw=true)
+![Carlos] (https://raw.githubusercontent.com/rotcivsh99-wq/actividad-daw/refs/heads/main/images.jpeg)
 _Mi amigo Carlos_
 
 ## Ficheros del repositorio
