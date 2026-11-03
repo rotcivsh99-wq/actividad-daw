@@ -20,9 +20,6 @@ _Mi amigo Carlos_
 1. main
 2. version1
 
-`<!doctype html>
-
-<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -38,6 +35,4 @@ _Mi amigo Carlos_
       <li>Disenyo de interfaces web</li>
       <li>Desarrollo web en entorno cliente</li>
     </ul>
-  </body>
-</html>
 `
