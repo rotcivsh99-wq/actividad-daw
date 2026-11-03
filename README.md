@@ -35,4 +35,3 @@ _Mi amigo Carlos_
       <li>Disenyo de interfaces web</li>
       <li>Desarrollo web en entorno cliente</li>
     </ul>
-`
